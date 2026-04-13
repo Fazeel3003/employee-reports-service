@@ -271,3 +271,9 @@
 2026-04-10 10:54:59,378 - routers.reports - INFO - Attendance summary generated: 22 records
 2026-04-10 12:11:19,264 - routers.reports - INFO - Employee export requested - format: json
 2026-04-10 12:11:19,285 - routers.reports - INFO - Employee export requested - format: json
+2026-04-10 17:20:51,756 - routers.reports - INFO - Employee export requested - format: json
+2026-04-10 17:20:51,776 - routers.reports - INFO - Employee export requested - format: json
+2026-04-10 17:20:55,935 - routers.reports - INFO - Department summary requested
+2026-04-10 17:20:55,941 - routers.reports - INFO - Department summary generated: 11 departments
+2026-04-10 17:21:17,552 - routers.reports - INFO - Attendance summary requested - start: 2026-03-12, end: 2026-04-10
+2026-04-10 17:21:17,552 - routers.reports - INFO - Attendance summary generated: 22 records
